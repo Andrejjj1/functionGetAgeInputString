@@ -1,3 +1,5 @@
 function getAge(inputString){
-return Number(inputString[0])
-    
+let age = Number(inputString[0])
+return age
+console.log(age)
+}
